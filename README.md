@@ -32,7 +32,6 @@ This project develops a classification model to detect fraudulent credit card tr
 - Best Model: Tuned XGBoost
 - ROC AUC: 0.9335
 - Precision for Fraud: 0.82
-- 
 
 ## How to Run
 1. Clone the repository:
