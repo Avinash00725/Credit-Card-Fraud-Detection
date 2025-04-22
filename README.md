@@ -27,13 +27,12 @@ This project develops a classification model to detect fraudulent credit card tr
    - ROC AUC, precision, recall, F1-score
    - Precision-recall curve and threshold tuning to minimize false positives
    - Cross-validation for robustness
-6. **Feature Importance**: Visualized to identify key predictors
 
 ## Results
 - Best Model: Tuned XGBoost
-- ROC AUC: [Insert from results]
-- Precision for Fraud: [Insert from results]
-- Visualizations: See `results/` folder
+- ROC AUC: 0.9335
+- Precision for Fraud: 0.82
+- 
 
 ## How to Run
 1. Clone the repository:
