@@ -20,7 +20,7 @@ This project develops a classification model to detect fraudulent credit card tr
 3. **Class Imbalance**:
    - SMOTE, RandomUnderSampler, and class weights
 4. **Models**:
-   - Logistic Regression (baseline)
+   - Logistic Regression 
    - Random Forest
    - XGBoost (tuned with RandomizedSearchCV)
 5. **Evaluation**:
